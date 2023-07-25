@@ -1,4 +1,3 @@
-# frontend-html-css-js
 # QR Code Component
 
 ![QR Code Component](./images/image-qr-code.png)
